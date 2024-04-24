@@ -39,11 +39,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Tahoma", 15F);
+            this.label1.Font = new System.Drawing.Font("Tahoma", 17F);
             this.label1.ForeColor = System.Drawing.SystemColors.GrayText;
             this.label1.Location = new System.Drawing.Point(214, 89);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(186, 30);
+            this.label1.Size = new System.Drawing.Size(214, 35);
             this.label1.TabIndex = 0;
             this.label1.Text = "Submit a report";
             // 
