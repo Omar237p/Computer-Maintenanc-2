@@ -16,5 +16,22 @@ namespace Computer_Maintenanc_2
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var newform = new Form4();
+            newform.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var newform = new Form2();
+            newform.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
